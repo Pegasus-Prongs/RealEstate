@@ -34,7 +34,7 @@ const Navbar = () => {
     <div className={`fixed top-0 z-50 w-full h-[70px] flex justify-between items-center px-4 text-black ${isScrolled ? "bg-white" : "bg-transparent"}`} >
       <div className="text-4xl cursor-pointer inline-flex items-center text-amber-800">
         <Link to="home" smooth={true} duration={500}>
-          My Real Estate
+          Real Estate - Prongs
         </Link>
       </div>
       <div className="md:hidden" onClick={handleMenuClick}>

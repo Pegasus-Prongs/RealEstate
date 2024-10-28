@@ -1,8 +1,8 @@
-<h1 align="center">Real Estate - Prongs</h1>
+<h1 align="center">Real Estate</h1>
 
 <h1 align="center">Project Description </h1>
 
-Real Estate - Prongs web app is a modern and fully responsive platform developed using React JS and Tailwind CSS. The app is designed to provide visitors with an immersive and user-friendly experience on all mobile devices. The app includes eight pages that cover all the important aspects of the real estate business. 
+Real Estate web app is a modern and fully responsive platform developed using React JS and Tailwind CSS. The app is designed to provide visitors with an immersive and user-friendly experience on all mobile devices. The app includes eight pages that cover all the important aspects of the real estate business. 
 
 The Home page provides visitors with a brief overview of your business and its offerings, while the About Us page details the background and mission of your real estate business.
 
@@ -14,7 +14,7 @@ The Our Clients page showcases your satisfied clients and their testimonials, wh
 
 The app's design is clean and minimalist, with a focus on providing the user with an intuitive navigation experience. The use of Tailwind CSS ensures that the app's design is consistent across all pages, providing a seamless user experience.
 
-Overall, Real Estate - Prongs web app is a powerful tool for your business, providing visitors with all the information they need to make informed decisions about your services.
+Overall, Real Estate web app is a powerful tool for your business, providing visitors with all the information they need to make informed decisions about your services.
 
 <hr>
 

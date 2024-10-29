@@ -22,7 +22,7 @@ Overall, Real Estate web app is a powerful tool for your business, providing vis
 
 ```
 
-└── myrealstate/
+└── realstate/
     ├── src/
     │   ├── assets/
     |   ├── components/

@@ -1,7 +1,7 @@
 import React from "react";
-import Imagee from "../../assets/1.png";
-import Imageee from "../../assets/2.png";
-import Imageeee from "../../assets/3.png";
+import Imagee from "../../assets/1.webp";
+import Imageee from "../../assets/2.webp";
+import Imageeee from "../../assets/3.jpg";
 
 const Features = () => {
   return (
